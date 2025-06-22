@@ -31,20 +31,20 @@ https://github.com/worawit/CVE-2021-3156/blob/main/exploit_nss.py
 https://github.com/antonioCoco/RunasCs/blob/master/Invoke-RunasCs.ps1?ref=walu.la
 https://github.com/peass-ng/PEASS-ng/releases
 /usr/share/windows-resources/mimikatz/x64/mimikatz.exe (Kali Linux)
-PEN-200 & PEN-300 (OffSec)
 https://github.com/HarmJ0y/PowerUp
 https://github.com/PowerShellMafia/PowerSploit/tree/dev/Recon
 https://github.com/CsEnox/SeManageVolumeExploit/releases
 https://github.com/dxnboy/redteam/blob/master/SeRestoreAbuse.exe
 https://github.com/jtmpu/PrecompiledBinaries/blob/master/SpoolSample.exe
+PEN-200 & PEN-300 (OffSec)
 
 revshells
 https://github.com/Sh3lldon/FullBypass/tree/main
 https://github.com/int0x33/nc.exe
-PEN-200 & PEN-300 (OffSec)
 https://github.com/ksecurity45/OSEP-1
 https://infosecwriteups.com/flying-under-the-av-radar-part-01-9384657de2b2
 https://github.com/chvancooten/OSEP-Code-Snippets/blob/main/Shellcode%20Process%20Injector/Shellcode%20Process%20Injector.ps1
+PEN-200 & PEN-300 (OffSec)
 
 runspace
 https://medium.com/@0xHossam/powershell-exploits-modern-apts-and-their-malicious-scripting-tactics-7f98b0e8090c
@@ -60,3 +60,4 @@ web
 https://clement.notin.org/blog/2020/04/15/Server-Side-Template-Injection-(SSTI)-in-ASP.NET-Razor/
 https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
 /usr/share/webshells/php/simple-backdoor.php (Kali Linux)
+PEN-200 & PEN-300 (OffSec)
