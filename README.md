@@ -1,63 +1,63 @@
-# KaliMisc
-Miscellaneous resources for Kali Linux
+# KaliMisc<br/>
+Miscellaneous resources for Kali Linux<br/>
 
-See these sources, for references:
+See these sources, for references:<br/>
 
-enum
-https://github.com/leoloobeek/LAPSToolkit
-https://github.com/HarmJ0y/PowerUp
-https://github.com/PowerShellMafia/PowerSploit/tree/dev/Recon
-https://github.com/SpecterOps/BloodHound-Legacy/tree/master/Collectors
-https://github.com/ropnop/kerbrute/releases
-https://github.com/peass-ng/PEASS-ng/releases
-/usr/share/windows-resources/mimikatz/x64/mimikatz.exe (Kali Linux)
-https://github.com/DominicBreuker/pspy/releases
+enum<br/>
+https://github.com/leoloobeek/LAPSToolkit<br/>
+https://github.com/HarmJ0y/PowerUp<br/>
+https://github.com/PowerShellMafia/PowerSploit/tree/dev/Recon<br/>
+https://github.com/SpecterOps/BloodHound-Legacy/tree/master/Collectors<br/>
+https://github.com/ropnop/kerbrute/releases<br/>
+https://github.com/peass-ng/PEASS-ng/releases<br/>
+/usr/share/windows-resources/mimikatz/x64/mimikatz.exe (Kali Linux)<br/>
+https://github.com/DominicBreuker/pspy/releases<br/>
 
-macros
-https://github.com/chvancooten/OSEP-Code-Snippets/tree/main/Simple%20Shellcode%20Runner
-PEN-200 & PEN-300 (OffSec)
+macros<br/>
+https://github.com/chvancooten/OSEP-Code-Snippets/tree/main/Simple%20Shellcode%20Runner<br/>
+PEN-200 & PEN-300 (OffSec)<br/>
 
-nmap
-https://nmap.org/book/man.html
+nmap<br/>
+https://nmap.org/book/man.html<br/>
 
-obfusmet
-https://github.com/chvancooten/OSEP-Code-Snippets/tree/main/XOR%20Shellcode%20Encoder
-https://github.com/ksecurity45/OSEP-1
+obfusmet<br/>
+https://github.com/chvancooten/OSEP-Code-Snippets/tree/main/XOR%20Shellcode%20Encoder<br/>
+https://github.com/ksecurity45/OSEP-1<br/>
 
-privesc
-https://github.com/BeichenDream/GodPotato/releases
-https://github.com/itm4n/PrintSpoofer/releases
-https://github.com/worawit/CVE-2021-3156/blob/main/exploit_nss.py
-https://github.com/antonioCoco/RunasCs/blob/master/Invoke-RunasCs.ps1?ref=walu.la
-https://github.com/peass-ng/PEASS-ng/releases
-/usr/share/windows-resources/mimikatz/x64/mimikatz.exe (Kali Linux)
-https://github.com/HarmJ0y/PowerUp
-https://github.com/PowerShellMafia/PowerSploit/tree/dev/Recon
-https://github.com/CsEnox/SeManageVolumeExploit/releases
-https://github.com/dxnboy/redteam/blob/master/SeRestoreAbuse.exe
-https://github.com/jtmpu/PrecompiledBinaries/blob/master/SpoolSample.exe
-PEN-200 & PEN-300 (OffSec)
+privesc<br/>
+https://github.com/BeichenDream/GodPotato/releases<br/>
+https://github.com/itm4n/PrintSpoofer/releases<br/>
+https://github.com/worawit/CVE-2021-3156/blob/main/exploit_nss.py<br/>
+https://github.com/antonioCoco/RunasCs/blob/master/Invoke-RunasCs.ps1?ref=walu.la<br/>
+https://github.com/peass-ng/PEASS-ng/releases<br/>
+/usr/share/windows-resources/mimikatz/x64/mimikatz.exe (Kali Linux)<br/>
+https://github.com/HarmJ0y/PowerUp<br/>
+https://github.com/PowerShellMafia/PowerSploit/tree/dev/Recon<br/>
+https://github.com/CsEnox/SeManageVolumeExploit/releases<br/>
+https://github.com/dxnboy/redteam/blob/master/SeRestoreAbuse.exe<br/>
+https://github.com/jtmpu/PrecompiledBinaries/blob/master/SpoolSample.exe<br/>
+PEN-200 & PEN-300 (OffSec)<br/>
 
-revshells
-https://github.com/Sh3lldon/FullBypass/tree/main
-https://github.com/int0x33/nc.exe
-https://github.com/ksecurity45/OSEP-1
-https://infosecwriteups.com/flying-under-the-av-radar-part-01-9384657de2b2
-https://github.com/chvancooten/OSEP-Code-Snippets/blob/main/Shellcode%20Process%20Injector/Shellcode%20Process%20Injector.ps1
-PEN-200 & PEN-300 (OffSec)
+revshells<br/>
+https://github.com/Sh3lldon/FullBypass/tree/main<br/>
+https://github.com/int0x33/nc.exe<br/>
+https://github.com/ksecurity45/OSEP-1<br/>
+https://infosecwriteups.com/flying-under-the-av-radar-part-01-9384657de2b2<br/>
+https://github.com/chvancooten/OSEP-Code-Snippets/blob/main/Shellcode%20Process%20Injector/Shellcode%20Process%20Injector.ps1<br/>
+PEN-200 & PEN-300 (OffSec)<br/>
 
-runspace
-https://medium.com/@0xHossam/powershell-exploits-modern-apts-and-their-malicious-scripting-tactics-7f98b0e8090c
-https://steffinstanly.gitbook.io/osep-notes/osep/post-exploitation/amsi-clm-and-app-locker
-https://github.com/Sh3lldon/FullBypass/tree/main
-PEN-300 (OffSec)
+runspace<br/>
+https://medium.com/@0xHossam/powershell-exploits-modern-apts-and-their-malicious-scripting-tactics-7f98b0e8090c<br/>
+https://steffinstanly.gitbook.io/osep-notes/osep/post-exploitation/amsi-clm-and-app-locker<br/>
+https://github.com/Sh3lldon/FullBypass/tree/main<br/>
+PEN-300 (OffSec)<br/>
 
-tunnels
-https://github.com/jpillora/chisel/releases
-https://github.com/nicocha30/ligolo-ng/releases
+tunnels<br/>
+https://github.com/jpillora/chisel/releases<br/>
+https://github.com/nicocha30/ligolo-ng/releases<br/>
 
-web
-https://clement.notin.org/blog/2020/04/15/Server-Side-Template-Injection-(SSTI)-in-ASP.NET-Razor/
-https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
-/usr/share/webshells/php/simple-backdoor.php (Kali Linux)
-PEN-200 & PEN-300 (OffSec)
+web<br/>
+https://clement.notin.org/blog/2020/04/15/Server-Side-Template-Injection-(SSTI)-in-ASP.NET-Razor/<br/>
+https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php<br/>
+/usr/share/webshells/php/simple-backdoor.php (Kali Linux)<br/>
+PEN-200 & PEN-300 (OffSec)<br/>
